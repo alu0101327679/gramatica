@@ -1,0 +1,18 @@
+// Modificación Miércoles 23 de noviembre 2022
+2
+a
+b
+3
+S
+A
+B
+S
+8
+S -> AabB
+A -> aA
+A -> bA
+A -> a
+B -> Bab
+B -> Bb
+B -> ab
+B -> b

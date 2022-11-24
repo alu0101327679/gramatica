@@ -1,0 +1,27 @@
+2
+a
+b
+8
+A
+B
+Qa
+Qb
+S
+Za
+Zb
+Zc
+S
+13
+A -> QaA
+A -> QbA
+A -> a
+B -> BQb
+B -> BZa
+B -> QaQb
+B -> b
+Qa -> a
+Qb -> b
+S -> AZc
+Za -> QaQb
+Zb -> QbB
+Zc -> QaZb

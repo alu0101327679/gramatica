@@ -1,0 +1,29 @@
+// Convertir las siguientes gramáticas a forma normal de Chomsky:
+7
+a
+b
+c
+e
+f
+g
+h
+6
+S
+A
+B
+C
+D
+E
+S
+11
+S -> CBa
+S -> D
+A -> bbC
+B -> Sc
+B -> ddd
+C -> eA
+C -> f
+C -> C
+D -> E
+D -> SABC
+E -> gh
